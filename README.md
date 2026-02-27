@@ -1,4 +1,4 @@
-# quote-chrome-extension-BTS
+# quote-chrome-extension-kpop
 
 2026-02-26: quote chrome extension for K-pop initializing
 
